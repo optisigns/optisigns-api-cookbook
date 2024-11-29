@@ -3,7 +3,7 @@ import json
 import os
 
 # URLs for GraphQL server and file upload API
-graphql_url = "https://beta-graphql-gateway.optisigns.com/graphql"
+graphql_url = "https://graphql-gateway.optisigns.com/graphql"
 upload_url = "https://api2.transloadit.com/assemblies"  # File upload endpoint
 
 # Retrieve API key from the environment variable
