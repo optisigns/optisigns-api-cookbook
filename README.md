@@ -1,6 +1,6 @@
 # OptiSigns SDK Cookbook
 
-A collection of **TypeScript** utility folders and functions demonstrating how to use the [OptiSigns SDK](https://www.npmjs.com/package/@optisigns/optisigns) for managing **Devices**, **Assets**, and other OptiSigns resources.
+A collection of **TypeScript** utility folders and functions demonstrating how to use the [OptiSigns SDK](https://www.npmjs.com/package/@optisigns/optisigns) for managing **Devices**, **Assets**, **Playlists**, **Schedules**, and other OptiSigns resources.
 
 ---
 
